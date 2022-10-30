@@ -1,0 +1,4 @@
+['remote "two-private-remotes-remote1"']
+    url = s3://dvc-private/remote/fixtures/get-started/1690423205/two-private-remotes-remote1
+['remote "two-private-remotes-remote2"']
+    url = s3://dvc-private/remote/fixtures/get-started/1690423205/two-private-remotes-remote2
